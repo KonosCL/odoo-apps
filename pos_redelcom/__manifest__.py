@@ -13,7 +13,7 @@
     "website": "https://www.konos.cl",
 
     "category": "Sales/Point of Sale",
-    "version": "16.0.0.1",
+    "version": "16.0.0.2",
 
     "depends": [
         "point_of_sale",
