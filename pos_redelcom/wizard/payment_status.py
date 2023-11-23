@@ -5,7 +5,7 @@
 from odoo import fields, models
 
 
-class PaymentStatusWizard(models.Model):
+class PaymentStatusWizard(models.TransientModel):
     _name = "payment.status.wizard"
     _description = "Payment status wizard"
 
