@@ -31,6 +31,10 @@
         ],
     },
 
+    "images": [
+        "static/description/banner.png"
+    ],
+
     "installable": True,
     "license": "GPL-3",
 }
